@@ -1,0 +1,10 @@
+{
+	"name": "connecting-to-mongodb-with-nodejs",
+	"version": "0.1.0",
+	"description": "Using the MongoDB driver together with node.js",
+	"main": "app.js",
+	"dependencies": {
+		"mongodb": "~2.1.3"
+	},
+	"author": "Namitha"
+}
