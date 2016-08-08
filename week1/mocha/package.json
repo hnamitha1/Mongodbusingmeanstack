@@ -1,0 +1,13 @@
+{
+	"name": "mocha",
+	"version": "0.1.0",
+	"description": "Using mocha for testing",
+	"main": "test.js",
+	"dependencies": {
+		"mocha": "3.0.2"
+	},
+  "scripts": {
+   "test": "node ./node_modules/mocha/bin/mocha"
+  },
+	"author": "Namitha"
+}
