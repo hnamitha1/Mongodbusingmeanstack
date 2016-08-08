@@ -1,0 +1,10 @@
+{
+	"name": "inserts-and-queries-using-the-nodejs-driver",
+	"version": "0.1.0",
+	"description": "Inserts and queries using the node js driver",
+	"main": "app.js",
+	"dependencies": {
+		"mongodb": "~2.1.3"
+	},
+	"author": "Namitha"
+}
